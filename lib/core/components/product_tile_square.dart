@@ -42,12 +42,6 @@ class ProductTileSquare extends StatelessWidget {
                       data.productImg.toString(),
                       fit: BoxFit.contain,
                     ),
-                    // child: Image.asset(
-                    //   "assets/images/avd0.png",
-                    //   height: 32,
-                    //   fit: BoxFit.contain,
-                    //
-                    // ),
                   ),
                 ),
                 const SizedBox(height: 8),
